@@ -1,0 +1,18 @@
+# IDE specific files
+.idea/
+*.iml
+*.iws
+
+# Build artifacts
+target/
+
+# Log files
+*.log
+nohup.out
+
+# Environment variables files
+.env
+
+# Local application properties
+application-local.yml
+application-local.properties 

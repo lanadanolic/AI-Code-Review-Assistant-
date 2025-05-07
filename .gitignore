@@ -1,0 +1,41 @@
+# IDE specific files
+.idea/
+*.project
+*.classpath
+*.cproject
+*.launch
+*.settings/
+*.dap/
+.vscode/
+
+# Build artifacts & dependencies
+**/target/
+**/build/
+**/dist/
+node_modules/
+
+# Log files
+*.log
+nohup.out
+
+# Environment variables files
+.env
+.env.*
+!frontend/.env.example
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven specific
+.mvn/
+
+# NPM specific
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local application properties (Spring Boot)
+application-local.yml
+application-local.properties 
