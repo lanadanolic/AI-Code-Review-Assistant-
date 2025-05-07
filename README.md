@@ -129,4 +129,7 @@ spring:
       max-tokens: 2000
 server:
   port: 8080
-``` 
+```
+![Screenshot from 2025-05-07 13-26-42](https://github.com/user-attachments/assets/78e62d60-ec02-4732-ba12-be84198c4e58)
+
+![Screenshot from 2025-05-07 13-26-53](https://github.com/user-attachments/assets/f6faf12a-7fe4-443a-8f1d-2fb74aaa8173)
